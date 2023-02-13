@@ -20,10 +20,6 @@
 
 > The `.json` files contain all solutions from level 1 to 10, i've format for better reading
 
-## Usage
-
-- You can *<strong>practice</strong>* in this link https://netpractice.netlify.app/
-
 ## Author
 
 👤 **Guilhermo Masid**
